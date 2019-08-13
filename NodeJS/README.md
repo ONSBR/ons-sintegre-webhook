@@ -1,5 +1,5 @@
 # Como executar
 
-npm install -g nodemon
+`npm install -g nodemon
 nmp install
-npm start
+npm start`
