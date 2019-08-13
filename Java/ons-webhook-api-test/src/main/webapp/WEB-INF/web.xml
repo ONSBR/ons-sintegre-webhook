@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	 version="3.0">
+   <display-name>ONS Webhook API Test</display-name>
+  
+    <servlet>
+        <servlet-name>ons-webhook-api-test</servlet-name>
+        <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+  
+        <init-param>
+            <param-name>jersey.config.server.provider.packages</param-name>
+            <param-value>br.org.ons.ons.sintegre.controller</param-value>
+        </init-param>
+  
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+  
+    <servlet-mapping>
+        <servlet-name>ons-webhook-api-test</servlet-name>
+        <url-pattern>/api/*</url-pattern>
+    </servlet-mapping>
+    
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>

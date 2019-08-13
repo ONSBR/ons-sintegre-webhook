@@ -1,0 +1,13 @@
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/bin/Release/netcoreapp2.1/ONS.Webhook.Api.Test.deps.json
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/bin/Release/netcoreapp2.1/ONS.Webhook.Api.Test.runtimeconfig.json
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/bin/Release/netcoreapp2.1/ONS.Webhook.Api.Test.runtimeconfig.dev.json
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/bin/Release/netcoreapp2.1/ONS.Webhook.Api.Test.dll
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/bin/Release/netcoreapp2.1/ONS.Webhook.Api.Test.pdb
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.csproj.CoreCompileInputs.cache
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.RazorAssemblyInfo.cache
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.RazorAssemblyInfo.cs
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.AssemblyInfoInputs.cache
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.AssemblyInfo.cs
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.RazorTargetAssemblyInfo.cache
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.dll
+/Users/agulao/Downloads/Webhook/C#/ONS.Webhook.Api.Test/obj/Release/netcoreapp2.1/ONS.Webhook.Api.Test.pdb
