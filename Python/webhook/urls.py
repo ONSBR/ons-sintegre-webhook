@@ -17,5 +17,5 @@ from django.conf.urls import url
 from AnonymousAuthentication import views
 
 urlpatterns = [
-    url(r'^api/webhook', views.webhook, name='webhook')
+    url(r'^api/Webhook', views.webhook, name='webhook')
 ]
