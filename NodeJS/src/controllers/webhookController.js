@@ -14,7 +14,7 @@ exports.post = (req, res, next) => {
     console.log(req.body);
     console.log(req.headers);
     // busca o arquivo recebido do SINtegre no parâmetro url
-    const http = require('https');
+    const http = require('http');
     http.get(req.body.url, (resp) => {
 
         console.log(resp.statusCode);
