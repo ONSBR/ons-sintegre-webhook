@@ -10,3 +10,6 @@ Código de exemplo de um webhook em C#, Java e NodeJS para receber notificaçõe
 - NodeJS
 - Python (Django)
 - Node-Red
+
+### Restrições (-)
+- Atualmente nossas políticas de segurança interna não possibilitam testes expondo hosts locais através do [ngrok](https://ngrok.com/) ou [serveo](http://serveo.net/).
