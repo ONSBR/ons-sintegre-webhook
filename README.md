@@ -12,4 +12,4 @@ Código de exemplo de um webhook em C#, Java e NodeJS para receber notificaçõe
 - Node-Red
 
 ### Restrições (-)
-- Atualmente nossas políticas de segurança interna não possibilitam testes expondo hosts locais através do [ngrok](https://ngrok.com/) ou [serveo](http://serveo.net/).
+- Atualmente nossas políticas de segurança interna não possibilitam testes expondo hosts locais através do [serveo](http://serveo.net/), sugerimos a utilização do [ngrok](https://ngrok.com/) que a partir do dia 28/10/2019 encontra-se liberado.
